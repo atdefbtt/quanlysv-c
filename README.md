@@ -4,3 +4,5 @@ Gồm các chức năng
 1. Nhập thông tin sinh viên
 2. Thêm sinh viên vào danh sách trước đó
 3. In danh sách sinh viên
+    3.1. In danh sách sinh viên đã nhập
+    3.2. In danh sách sinh viên sau khi thêm
