@@ -6,3 +6,4 @@ Gồm các chức năng
 3. In danh sách sinh viên
     3.1. In danh sách sinh viên đã nhập
     3.2. In danh sách sinh viên sau khi thêm
+    3.3. In danh sach sinhvien vua them
